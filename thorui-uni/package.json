@@ -1,0 +1,53 @@
+{
+  "_from": "thorui-uni",
+  "_id": "thorui-uni@1.6.1",
+  "_inBundle": false,
+  "_integrity": "sha512-2ebIAZw9FJzTSezTPAwSVPLbZXMF2gz0+doFlog/equnDAj/x9YRo+4WLWm74mVN/ZcbONesZ7B2DmNaylcHbg==",
+  "_location": "/thorui-uni",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "thorui-uni",
+    "name": "thorui-uni",
+    "escapedName": "thorui-uni",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/thorui-uni/-/thorui-uni-1.6.1.tgz",
+  "_shasum": "70315d05f52d39ba6f2d88eb5741ae1a171e7465",
+  "_spec": "thorui-uni",
+  "_where": "/Users/bbbyqq/Documents/项目/cloud_shop",
+  "author": {
+    "name": "echo.",
+    "email": "1062884167@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dingyong0214/ThorUI-uniapp/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "ThorUI Component library",
+  "homepage": "https://github.com/dingyong0214/ThorUI-uniapp#readme",
+  "keywords": [
+    "thorui",
+    "thorui组件库",
+    "uni-app component"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "thorui-uni",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingyong0214/ThorUI-uniapp.git"
+  },
+  "scripts": {
+    "test": "thorui-uni"
+  },
+  "version": "1.6.1"
+}
